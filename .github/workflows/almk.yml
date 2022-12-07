@@ -1,4 +1,4 @@
-name: Building ThinLTO
+name: Building ALMK
 
 on: # [push]
 #  release:
